@@ -3,7 +3,7 @@ Using SigLIP as an image classifier and LLM calls to generate feedback for open-
 
 # Getting Started
 Within this repository, you will find
-1. A Demo [notebook](/main/Open_Ended_Graphics_Grading_Full_Code.ipynb)
+1. A Demo [notebook](/Open_Ended_Graphics_Grading_Full_Code.ipynb)
    * This notebook contains a sample workflow in which our classifier predicts a flag and generates a subsequent response.
 3. Raw Code
    * This includes the notebooks used for GPT comparison, Outlier Detection, and SigLIP classification of our flags.
